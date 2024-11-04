@@ -1,6 +1,6 @@
-# Spring Boot Microservices - Product Service
+# Spring Boot Microservices - Order Service
 
-Este repositório contém o código de um serviço de produtos desenvolvido com Spring Boot.
+Este repositório contém o código de um serviço de pedidos desenvolvido com Spring Boot.
 
 ## Tecnologias
 - Java 17
